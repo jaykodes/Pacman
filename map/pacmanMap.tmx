@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.4" orientation="orthogonal" renderorder="right-down" width="28" height="31" tilewidth="8" tileheight="8" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="pacmanTiles.tsx"/>
+ <layer id="2" name="mapBlocks" width="28" height="31" locked="1">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAE71W207DMAz1YMAGQuMFaFfeusvDxv//3hyplTxz3MROi6WjVZ4v7clJnAcienPiyrgE8laMNfltz2gDeY+iX8PYDfgGPun/YXSZGFRP9kvv/DugBT7pl2bFoHqyX3rnzwEd8El/o74VxaB6sp/Hllw/tB4nxtERj9YPfb/8Dvn/gdE74kv5tHjz+kdL/TZkc5LyEW+yrua5BXXGmBfGK5VxorWndfhVUGdLf/mMak8bqoP0meMk4UP95taiVp8jSjicQ5/ReGu/n0F+CZ9WvMVn4udA92dulM/03FOeT50T5dPSp97vVo6XT5SL9rvey9ZsQnzmctF+X9Jy+py6K+TuHBF9WudnyRkb0adl0ZicPmvme0SftfPdq88l5vvUfal2vnvvSzXzfc77Z9RSv2fG+z/hiXEDKDEhRZANAAA=
+  </data>
+ </layer>
+</map>
